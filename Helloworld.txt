@@ -7,6 +7,7 @@ System.out.print(" asgfu");
 
 public static void main(String args[])
 {
+myMethod();
 
 System.out.print("hello kirti");
 
