@@ -1,8 +1,15 @@
 class HelloWorld{
 
+public static void mMethod()
+{
+System.out.print(" asgfu");
+}
+
 public static void main(String args[])
 {
-jksdfhlsdhf
-System.out.print("hello");
+myMethod();
+
+System.out.print("hello kirti");
+
 }
 }
